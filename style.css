@@ -1,0 +1,16 @@
+.area {
+  border-radius: 25px;
+  border: gray 2px solid;
+}
+.message {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.container {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
